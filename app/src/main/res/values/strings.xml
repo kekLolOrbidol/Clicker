@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lucky Clicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="clickACookie">Just do it</string>
+    <string name="currentPointsView">{points}</string>
+    <string name="pointsIncrementorView">{points/second}</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="chrl_clicker">Super Clicker</string>
+    <string name="ranking">Ranking</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="new_game">New Game</string>
+    <string name="_2019">2020</string>
+    <string name="game_options">Game Options</string>
+    <string name="facebook_app_id">653574201958009</string> <string name="fb_login_protocol_scheme">fb653574201958009</string>
+
+</resources>
